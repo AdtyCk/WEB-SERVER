@@ -2,6 +2,8 @@
 # SERVICE
 - SSH
 - APACHE2 (Web Server)
+  ![image](https://github.com/AdtyCk/WEB-SERVER/assets/148180105/17b7854e-fde8-468a-a44f-ab247320a5eb)
+
 - PHP
 - MySQL
 - WEBMIN (MONITORING)
