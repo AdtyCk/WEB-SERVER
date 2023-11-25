@@ -1,12 +1,10 @@
 # WEB-SERVER
 # SERVICE
 - SSH
-- APACHE2 (Web Server)
-  ![image](https://github.com/AdtyCk/WEB-SERVER/assets/148180105/17b7854e-fde8-468a-a44f-ab247320a5eb)
-
-- PHP
+- APACHE2 ( Web Server )
+- PHPMyAdmin ( Control Database )
 - MySQL
-- WEBMIN (MONITORING)
+- WEBMIN ( Control Panel )
 # TOOLS
 - Oracle Virtual Box
 - ISO Ubuntu Server 22.04 LTS
@@ -21,4 +19,8 @@
 5. Install WebMin
    - "sudo apt install webmin"
    - "sudo ufw allow 10000" ( Mengakses Port 10000 )
-   - Access Web "https://your_server:10000" ( digunakan untuk mengakses webmin dan memonitoring server )
+   - Access Web "https://your_server:10000" ( Digunakan Untuk Monitoring & Control Panel )
+6. Install PHPMyAdmin
+   - "sudo apt install php"
+   - "sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl"
+   - "https://your_domain_or_IP/phpmyadmin" ( Digunakan Untuk Akses Control Database )
