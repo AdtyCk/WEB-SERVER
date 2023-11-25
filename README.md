@@ -1,0 +1,7 @@
+# WEB-SERVER
+# SERVICE
+- SSH
+- APACHE2 (Web Server)
+- PHP
+- MySQL
+- WEBMIN (MONITORING)
