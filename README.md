@@ -16,7 +16,7 @@
    - "sudo ufw app list" - "sudo ufw allow 'Apache" - "sudo ufw status"
 4. Configurasi HTML Apache2
    - "sudo nano /var/www/realaditya.com/index.html" ( Tampilan Login )
-   - "sudo nano /var/www/realaditya.com/profil.html" ( Tampilan Profil )
+   - "sudo nano /var/www/realaditya.com/dashboard.html" ( Tampilan Profil )
 5. Install WebMin
    - https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-id
    - "sudo apt install webmin"
