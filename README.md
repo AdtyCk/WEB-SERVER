@@ -25,5 +25,5 @@
 6. Install BIND9 ( 08 Desember 2023 )
    - https://bahasaweb.com/cara-membuat-name-server-di-ubuntu/# 
      - tambahan ( digunakan untuk access firewall menggunakan port 53 )
-     - sudo iptables -A INPUT -p udp --dport 53 -j ACCEPT
-     - sudo iptables -A INPUT -p tcp --dport 53 -j ACCEPT
+     - "sudo iptables -A INPUT -p udp --dport 53 -j ACCEPT"
+     - "sudo iptables -A INPUT -p tcp --dport 53 -j ACCEPT"
